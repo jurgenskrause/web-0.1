@@ -1,4 +1,4 @@
 <?php
-  phpinfo();
+  echo "this will be the home page";
 
 ?>
